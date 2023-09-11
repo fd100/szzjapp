@@ -1,1 +1,1 @@
-# szzjapp
+# szzj
